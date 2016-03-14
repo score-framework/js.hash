@@ -6,10 +6,13 @@ libraries for the development of large scale web projects. Powered by strg.at_.
 
 .. _The SCORE Framework: http://score-framework.org
 .. _strg.at: http://strg.at
-.. _js_hash:
 
+
+**********
 score.hash
-==========
+**********
+
+.. _js_hash:
 
 This micro-library consists of a single function for comparing values
 semantically. The main use case is to compare javascript objects while
